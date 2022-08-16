@@ -13,6 +13,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 //AppDelegate comment from origin/master
     
     //second AppDelegate comment from origin/master
+    
+    //third AppDelegate comment from origin/master
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
