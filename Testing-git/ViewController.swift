@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var vertivalConstraint: CGFloat = 20
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
